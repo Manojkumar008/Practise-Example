@@ -1,6 +1,11 @@
 /* Java program to find first repeating element in arr[] */
 import java.util.*;
 
+/**
+ * Hello world!
+ *
+ *
+ */
 public class FirstRepetableCharacter
 {
     // This function prints the first repeating element in arr[]

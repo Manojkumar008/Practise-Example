@@ -1,6 +1,11 @@
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Hello world!
+ *
+ *
+ */
 public class Maps
 {
 

@@ -2,7 +2,9 @@ package inheritance;
 
 class B
 {
-
+    /**
+     * 
+     */
     int a = 10;
 
     public void print()
